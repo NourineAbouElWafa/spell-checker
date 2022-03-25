@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1623788614 source:c:\users\user\desktop\term2\programming\treesproject\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
